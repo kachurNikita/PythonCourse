@@ -36,18 +36,20 @@ verse = '''
 
 stringSequence = 'Hello world'
 
-print(stringSequence[0])
-print(stringSequence[0:])
-print(stringSequence[6:])
-print(stringSequence[::2])
-print(stringSequence[::-1]) # string reverse
-print(stringSequence[0:4] +  stringSequence[5:])
+#print(stringSequence[0])
+#print(stringSequence[0:])
+#print(stringSequence[6:])
+#print(stringSequence[::2])
+#print(stringSequence[::-1]) # string reverse
+#print(stringSequence[0:4] +  stringSequence[5:])
 
 #print(stringSequence[-1])
 # String is immutable (we can't change string only recreate!)
 
 
-#SLICE - срез
+
+
+
 
 
 
